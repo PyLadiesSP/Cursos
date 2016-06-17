@@ -9,8 +9,9 @@ Essa pasta contém o material dos cursos ministrados pelo [PyLadies São Paulo] 
 - [Tutorial de Instalação](https://github.com/PyLadiesSP/Cursos/)
 
 Os cursos atuais são:
-- [Iniciante](https://github.com/PyLadiesSP/Cursos/)
-- [Intermediário](https://github.com/PyLadiesSP/Cursos/)
+- [Iniciante](https://github.com/PyLadiesSP/Cursos/tree/master/Iniciante)
+- [Intermediário](https://github.com/PyLadiesSP/Cursos/tree/master/Intermedi%C3%A1rio%20I)
+- [Intermediário II] (https://github.com/PyLadiesSP/Cursos/tree/master/Intermedi%C3%A1rio%20II)
 - [Avançado](em breve)
 
 ## Contribuir
