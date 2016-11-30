@@ -11,10 +11,11 @@ Essa pasta contém o material dos cursos ministrados pelo [PyLadies São Paulo] 
 Os cursos atuais são:
 - [Iniciante](https://github.com/PyLadiesSP/Cursos/tree/master/Iniciante)
 - [Intermediário](https://github.com/PyLadiesSP/Cursos/tree/master/Intermedi%C3%A1rio%20I)
-- [Intermediário II] (https://github.com/PyLadiesSP/Cursos/tree/master/Intermedi%C3%A1rio%20II)
-- [Raspagem de Dados com Python] (https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Raspagem%20de%20dados_PyLadiesSP.pdf)
+- [Orientação à Objetos com Python - ministrado pela Júlia Rizza] (https://github.com/PyLadiesSP/Cursos/tree/master/Intermedi%C3%A1rio%20II)
+- [Workshop Python + Flask - ministrado pela Cynthia Zanoni] (http://www.slideshare.net/cynthiazanoni/mini-workshop-flask)
 - [Workshop básico de Python] (https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Workshop_PyLadiesSP.pdf)
-- [Workshop Python + Flask ministrado pela Cynthia Zanoni] (http://www.slideshare.net/cynthiazanoni/mini-workshop-flask)
+- [Raspagem de Dados com Python] (https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Raspagem%20de%20dados_PyLadiesSP.pdf)
+
 
 ## Contribuir
 
