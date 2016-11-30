@@ -13,7 +13,7 @@ Os cursos atuais são:
 - [Intermediário](https://github.com/PyLadiesSP/Cursos/tree/master/Intermedi%C3%A1rio%20I)
 - [Orientação à Objetos com Python - ministrado pela Júlia Rizza] (https://github.com/PyLadiesSP/Cursos/tree/master/Intermedi%C3%A1rio%20II)
 - [Workshop Python + Flask - ministrado pela Cynthia Zanoni] (http://www.slideshare.net/cynthiazanoni/mini-workshop-flask)
-- [Workshop básico de Python] (https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Workshop_PyLadiesSP.pdf)
+- [Workshop Básico de Python] (https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Workshop_PyLadiesSP.pdf)
 - [Raspagem de Dados com Python] (https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Raspagem%20de%20dados_PyLadiesSP.pdf)
 
 
