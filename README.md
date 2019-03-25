@@ -1,22 +1,24 @@
-# Cursos
-> **Informações** Este trabalho está licenciado sob a Attribution-NonCommercial-NoDerivatives 4.0 International. Para ver uma cópia desta licença, visite https://creativecommons.org/licenses/by-nc-nd/4.0/
+# Código de Conduta PyLadies São Paulo
 
-## Introdução
+- A Pyladies São Paulo dedica-se a construir uma comunidade respeitosa e livre de assédio para todos. 
 
-Essa pasta contém o material dos cursos ministrados pelo [PyLadies São Paulo] (https://www.facebook.com/PyLadiesSP/).
+- Não toleramos qualquer tipo de assédio ou intimidação de participantes da comunidade. Isso não se estende apenas às integrantes das comunidades locais de PyLadies, mas a todos que participem dos eventos que as PyLadies realizam e/ou de suas redes sociais.
 
+- Por assédio entendemos:
+    - comentários verbais ofensivos, por meios virtuais ou não, relacionados à características ou escolhas pessoais; 
+    - imagens ou comentários sexuais em espaços públicos, virtuais ou não; 
+    - intimidação deliberada; 
+    - intimidação por perseguição, perseguição, fotos, gravações e prints de telas sem a devida autorização;
+    - interrupção constante da fala de palestrantes, seja em bate-papos/reuniões online ou em outros eventos;
+    - qualquer tipo de contato físico inadequado ou indesejado. 
+A pessoa participante, quando solicitada a interromper qualquer comportamento identificado como assédio ou intimidação, deve atender imediatamente.
 
-- [Tutorial de Instalação](https://github.com/PyLadiesSP/Cursos/)
+- Se uma participante se envolver em qualquer um dos comportamentos listados acima, as representantes da comunidade podem tomar medidas ​​que considerem apropriadas tais como: 
+    - Advertência; 
+	- Expulsão da participante de qualquer evento PyLadies São Paulo; 
+	- Banimento da participante das listas de discussão, grupos de redes sociais, fóruns de discussão e outros canais de comunicação eletrônica associados às PyLadies São Paulo;
+	- Poderá ser proibida de participar de qualquer evento realizado pela comunidade PyLadies São Paulo. 
 
-Os cursos atuais são:
-- [Iniciante](https://github.com/PyLadiesSP/Cursos/tree/master/Iniciante)
-- [Intermediário](https://github.com/PyLadiesSP/Cursos/tree/master/Intermedi%C3%A1rio%20I)
-- [Orientação à Objetos com Python - ministrado pela Júlia Rizza] (https://github.com/PyLadiesSP/Cursos/tree/master/Intermedi%C3%A1rio%20II)
-- [Workshop Python + Flask - ministrado pela Cynthia Zanoni] (http://www.slideshare.net/cynthiazanoni/mini-workshop-flask)
-- [Workshop Básico de Python] (https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Workshop_PyLadiesSP.pdf)
-- [Raspagem de Dados com Python] (https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Raspagem%20de%20dados_PyLadiesSP.pdf)
+Caso você se sinta assediada e/ou desrespeitada, observe se outra participante também está sendo e/ou caso você identifique alguma postura que não condiga com este código de conduta, aja para interceder ou peça ajuda a qualquer membro da comunidade PyLadies São Paulo, tais como: administradoras de grupos de Telegram, de sites ou organizadoras representantes da comunidade, em qualquer evento que as PyLadies São Paulo organizarem.
 
-
-## Contribuir
-
-Os cursos são mantidos pelo [PyLadies São Paulo] (https://www.facebook.com/PyLadiesSP/) se você encontrar quaisquer erros ou quiser enviar sugestões contate-nos pelo [e-mail](saopaulo@pyladies.com).
+Este código de conduta foi traduzido e adaptado do código de conduta do PyLadies Internacional.
