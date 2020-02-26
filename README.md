@@ -19,4 +19,4 @@ Os cursos atuais são:
 
 ## Contribuir
 
-Os cursos são mantidos pelo [PyLadies São Paulo](https://www.facebook.com/PyLadiesSP/) se você encontrar quaisquer erros ou quiser enviar sugestões contate-nos pelo [e-mail](saopaulo@pyladies.com).
+Os cursos são mantidos pelo [PyLadies São Paulo](https://www.facebook.com/PyLadiesSP/) se você encontrar quaisquer erros ou quiser enviar sugestões contate-nos pelo [e-mail](mailto:saopaulo@pyladies.com).
