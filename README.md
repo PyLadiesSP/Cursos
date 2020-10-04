@@ -5,8 +5,7 @@
 
 Essa pasta contém o material dos cursos ministrados pelas [PyLadies São Paulo](https://www.facebook.com/PyLadiesSP/).
 
-
-- [Tutorial de Instalação](https://github.com/PyLadiesSP/Cursos/)
+- [Tutorial de Instalação do Python](https://github.com/PyLadiesSP/Cursos/blob/master/tutoriais/instalacao_python3-4.pdf)
 
 Os cursos atuais são:
 - [Iniciante](https://github.com/PyLadiesSP/Cursos/tree/master/Iniciante)
