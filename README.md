@@ -3,7 +3,7 @@
 
 ## Introdução
 
-Essa pasta contém o material dos cursos ministrados pelo [PyLadies São Paulo](https://www.facebook.com/PyLadiesSP/).
+Essa pasta contém o material dos cursos ministrados pelas [PyLadies São Paulo](https://www.facebook.com/PyLadiesSP/).
 
 
 - [Tutorial de Instalação](https://github.com/PyLadiesSP/Cursos/)
