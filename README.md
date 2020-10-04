@@ -8,7 +8,8 @@ Essa pasta contém o material dos cursos ministrados pelas [PyLadies São Paulo]
 - [Tutorial de Instalação do Python](https://github.com/PyLadiesSP/Cursos/blob/master/tutoriais/instalacao_python3-4.pdf)
 
 Os cursos atuais são:
-- [Iniciante](https://github.com/PyLadiesSP/Cursos/tree/master/Iniciante)
+- [Básico I](https://github.com/PyLadiesSP/Cursos/blob/master/Basico_I/Basico_1.pdf)
+- [Básico II](https://github.com/PyLadiesSP/Cursos/blob/master/Basico_II/basico_II.pdf)
 - [Intermediário](https://github.com/PyLadiesSP/Cursos/tree/master/Intermedi%C3%A1rio%20I)
 - [Orientação à Objetos com Python - ministrado pela Júlia Rizza](https://github.com/PyLadiesSP/Cursos/tree/master/Intermedi%C3%A1rio%20II)
 - [Workshop Python + Flask - ministrado pela Cynthia Zanoni](http://www.slideshare.net/cynthiazanoni/mini-workshop-flask)
