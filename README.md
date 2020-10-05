@@ -12,11 +12,9 @@ Os cursos atuais são:
 - [Básico I](https://github.com/PyLadiesSP/Cursos/blob/master/Basico_I/Basico_1.pdf)
 - [Básico II](https://github.com/PyLadiesSP/Cursos/blob/master/Basico_II/basico_II.pdf)
 - [Intermediário I](https://github.com/PyLadiesSP/Cursos/blob/master/Intermediario_1/IntermediarioI_PyLadiesSP.pdf)
-- [Intermediário II](https://github.com/PyLadiesSP/Cursos/blob/master/Intermediario_II/Intermediario_II.pdf)
-- [Orientação à Objetos com Python - ministrado pela Júlia Rizza](https://github.com/PyLadiesSP/Cursos/tree/master/Intermedi%C3%A1rio%20II)
-- [Workshop Python + Flask - ministrado pela Cynthia Zanoni](http://www.slideshare.net/cynthiazanoni/mini-workshop-flask)
-- [Workshop Básico de Python](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Workshop_PyLadiesSP.pdf)
-- [Raspagem de Dados com Python](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Raspagem%20de%20dados_PyLadiesSP.pdf)
+- [Intermediário II - Orientação à Objetos com Python - ministrado pela Júlia Rizza](https://github.com/PyLadiesSP/Cursos/blob/master/Intermediario_II/Intermediario_II.pdf)
+- [Raspagem de Dados com Python](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Raspagem_de_dados_PyLadiesSP.pdf)
+- [Git e GitHub para iniciantes](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Git_e_GitHub.pdf)
 
 
 ## Contribuir
