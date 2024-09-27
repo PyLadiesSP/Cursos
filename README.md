@@ -16,6 +16,9 @@ Os cursos atuais são:
 - [Raspagem de Dados com Python](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Raspagem_de_dados_PyLadiesSP.pdf)
 - [Git e GitHub para iniciantes](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Git_e_GitHub.pdf)
 
+Outros materiais:
+
+- [Materiais do Grupo de Estudos em Data Science GEDS](https://github.com/PyLadiesSP/data-science)
 
 ## Contribuir
 
