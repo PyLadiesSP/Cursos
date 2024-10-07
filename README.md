@@ -15,6 +15,7 @@ Os cursos atuais são:
 - [Intermediário II - Orientação à Objetos com Python - ministrado pela Júlia Rizza](https://github.com/PyLadiesSP/Cursos/blob/master/Intermediario_II/Intermediario_II.pdf)
 - [Raspagem de Dados com Python](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Raspagem_de_dados_PyLadiesSP.pdf)
 - [Git e GitHub para iniciantes](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Git_e_GitHub.pdf)
+- [Analisando Dados com Python](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Workshop%20Analisando%20Dados%20com%20Python%20-%20PyLadiesSP.pdf)
 
 
 ## Contribuir
