@@ -1,3 +1,6 @@
+# Código de Conduta PyLadies São Paulo
+Pedimos à todas as pessoas participantes que leiam o [código de conduta](cod-conduta.md) de nossa comunidade.
+
 # Cursos
 > **Informações** Este trabalho está licenciado sob a Attribution-NonCommercial-NoDerivatives 4.0 International. Para ver uma cópia desta licença, visite https://creativecommons.org/licenses/by-nc-nd/4.0/
 
