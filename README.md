@@ -17,6 +17,9 @@ Os cursos atuais são:
 - [Git e GitHub para iniciantes](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Git_e_GitHub.pdf)
 - [Analisando Dados com Python](https://github.com/PyLadiesSP/Cursos/blob/master/Workshops/Workshop%20Analisando%20Dados%20com%20Python%20-%20PyLadiesSP.pdf)
 
+Outros materiais:
+
+- [Materiais do Grupo de Estudos em Data Science GEDS](https://github.com/PyLadiesSP/data-science)
 
 ## Contribuir
 
